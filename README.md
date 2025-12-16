@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! 👋 I'm Naveed Hassan</h2>
 
 <p align="center">
-🎓 Computer Engineer | 💻 Software Engineer | 🤖 AI & Embedded Systems Enthusiast
+🎓 Computer Engineer | 💻 Software Engineer | 🌐 Web Developer | 🤖 AI & Embedded Systems Enthusiast
 </p>
 
 ---
