@@ -1,8 +1,8 @@
-<h2 align="center">Hey there! 👋 I'm Naveed Hassan</h2>
+<h2 align="left">👋Hi! I'm Naveed Hassan</h2>
 
-<p align="center">
-🎓 Computer Engineer | 💻 Software Engineer | 🌐 Web Developer | 🤖 AI & Embedded Systems Enthusiast
-</p>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white) ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=sql&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![React](https://img.shields.io/badge/React-3d85c6?style=for-the-badge&logo=react&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 ## 🌐 Connect With Me  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/naveed-hassan-70a988212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
